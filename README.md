@@ -1,3 +1,5 @@
+Original repo: https://github.com/tcgoetz/GarminDB#
+
 [![Screen shot of a daily graph](https://raw.githubusercontent.com/tcgoetz/GarminDB/master/Screenshots/Screen_Shot_jupyter_daily_sm.jpg)](https://github.com/tcgoetz/GarminDB/wiki/Screenshots)
 
 ---
